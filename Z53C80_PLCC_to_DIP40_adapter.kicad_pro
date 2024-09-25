@@ -501,7 +501,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "../Z53C80_PLCC_to_DIP40_adapter.dsn",
       "step": "",
