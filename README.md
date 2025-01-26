@@ -19,7 +19,7 @@ This adapter is just a pin-to-pin adapter that allows you to use a PLCC package 
 First of all, solder the ceramic capacitor, then the headers. My advice is to insert them into a DIP40 socket to hold them still, fit the PCB on top of them, then **snip off all the posts overlapping with where the PLCC socket would sit**.
 Once that is done, solder the headers, and avoid adding too much solder to the stubs near the space for the PLCC socket.
 
-Inser the PLCC socket on top of the board, apply flux liberally and solder every pin, paying particular attention not to short them to the nearby headers.
+Insert the PLCC socket on top of the board, apply flux liberally and solder every pin, paying particular attention not to short them to the nearby headers.
 
 Done.
 
